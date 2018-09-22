@@ -1,2 +1,2 @@
 # examples
-This repository contains concepts/practice definitions  implementations while learning some thing for development
+This repository contains concepts/practice definitions  implementation while learning some thing.
