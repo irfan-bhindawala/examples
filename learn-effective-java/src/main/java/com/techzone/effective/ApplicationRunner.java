@@ -1,4 +1,4 @@
-package com.techzone.learn.effective.java;
+package com.techzone.effective;
 
 public class ApplicationRunner {
 
