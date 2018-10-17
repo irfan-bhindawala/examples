@@ -21,7 +21,7 @@ public final class FactoryPatternDesignImpl {
     }
 
     public static void execute() {
-        accountsHolder.forEach((key, value) -> LOGGER.info("In " + value.getAccountType() + " Acount amount debit limit is :: " + value.getAccount().debitAmountLimit()));
+        accountsHolder.forEach((key, value) -> LOGGER.info(() -> "In " + value.getAccountType() + " Acount amount debit limit is :: " + value.getAccount().debitAmountLimit()));
 
     }
 
