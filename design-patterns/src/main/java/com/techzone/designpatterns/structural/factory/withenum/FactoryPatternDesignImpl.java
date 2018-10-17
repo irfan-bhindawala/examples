@@ -1,4 +1,6 @@
-package com.techzone.designpatterns.domains;
+package com.techzone.designpatterns.structural.factory.withenum;
+
+import com.techzone.designpatterns.domains.Accounts;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

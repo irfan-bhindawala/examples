@@ -1,6 +1,6 @@
 package com.techzone.designpatterns;
 
-import com.techzone.designpatterns.domains.FactoryPatternDesignImpl;
+import com.techzone.designpatterns.structural.factory.withenum.FactoryPatternDesignImpl;
 
 public class ApplicationExecutor {
 
